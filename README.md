@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Weather ETL Pipeline with Astronomer & Apache Airflow</title>
 </head>
 <body>
 
